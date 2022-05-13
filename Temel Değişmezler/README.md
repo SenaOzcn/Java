@@ -19,3 +19,14 @@ Tek bir karakter bir rakamı, bir harfi veya başka bir sembolü temsil edebilir
 Karakter değişmezleri, rakamları ``` '0','9' ```, boşukları ``` ' ' ```, diğer karakterleri veya sembolleri ``` '$' ``` temsil edebilir.
 
 Bir karakter, yalnızca tek bir sembolü temsil eder. İki veya daha fazla rakam veya harf içeremez.
+
+## Dizeler
+
+Bir dize, herhangi bir bireysel karakter dizisidir. Dizeler, bir reklam metni, bir web sayfasının adresi veya bir sitede oturum açma gibi metin bilgilerini temsil eder.
+
+Bir dize yazmak için çift tırnak ``` "" ``` kullanırız.
+
+Karıştırılmaması gerekenler:
+- ```123``` bir tamsayıdır, ```"123"```bir dizedir.
+- ```'A'``` bir karakterdir, ```"A"```bir dizedir.
+- ``` '1' ```bir karakterdir, ```1```bir tamsayıdır.
