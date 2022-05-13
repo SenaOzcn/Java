@@ -11,3 +11,11 @@ Geçerli tamsayılar örneği aşağıdaki gibidir;
 ```
 
 Bir tamsayı değeri çok sayıda rakam içeriyorsa, daha okunaklı olabilmesi için sayıyı bloklara bölmek için alt çizgiler ekleyebilirsiniz: ``` 1_000_000```
+
+## Karakterler
+
+Tek bir karakter bir rakamı, bir harfi veya başka bir sembolü temsil edebilir. Bir karakter kullanmak için tek tırnak kullanırız: ``` 'A', 'B', 'C', 'x', 'y', 'z', '0', '1', '2', '3' ```
+
+Karakter değişmezleri, rakamları ``` '0','9' ```, boşukları ``` ' ' ```, diğer karakterleri veya sembolleri ``` '$' ``` temsil edebilir.
+
+Bir karakter, yalnızca tek bir sembolü temsil eder. İki veya daha fazla rakam veya harf içeremez.
