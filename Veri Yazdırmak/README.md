@@ -48,3 +48,21 @@ Ben Java programlama dilini biliyorum.
 
 *Kelimeler arasındaki boşluklara dikkat edin.*
 
+## Rakamları ve karakterleri yazdırma
+
+```
+System.out.print(108);     // Bir sayı yazdırır.
+System.out.print('c');     // Bir harfi temsil eden bir karakter yazdırır.
+System.out.print("Q");     // Dize yazdırır.
+System.out.println('3');   // Bir rakamı temsil eden bir karakter yazdırır.
+
+System.out.print(22);
+System.out.print('E');
+System.out.print(8);
+System.out.println('1');
+```
+Çıktı :
+```
+108cQ3
+22E81
+```
