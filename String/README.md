@@ -42,7 +42,7 @@ String str = new String("benim-string'im");
 
 Herhangi bir dizenin iki kullanışlı yöntemi vardır:
 
-- length(): Kizedeki karakter sayısını döndürür;
+- length(): Dizedeki karakter sayısını döndürür;
 - charAt(int index): Dizinine göre bir karakter döndürür;
 
 İşte bir örnek:
