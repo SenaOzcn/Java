@@ -10,7 +10,7 @@ Standart girdiden bu parametrelerin değerlerini okuyun ve ardından sonucu yazd
 
 import java.util.Scanner;
 
-class Main {
+class TatilProgrami {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int day = scanner.nextInt();
