@@ -78,19 +78,19 @@ if (ifade1) {
 ```
 Aşağıdaki kod, bütçenize bağlı olarak hangi bilgisayarı satın almanız gerektiğine dair öneriler verir.
 ```
-long liras = ...; // senin bütçen
+long lira = ...; // Bütçe
 
-if (liras < 10_000) {
+if (lira < 10_000) {
     System.out.println("Laptop satın alabilirsin.");
-} else if (liras < 20_000) {
+} else if (lira < 20_000) {
     System.out.println("Masaüstü bilgisayar alabilirsin.");
-} else if (liras < 1_000_000) {
+} else if (lira < 1_000_000) {
     System.out.println("Sunucu alabilirsin");
 } else {
     System.out.println("Bir veri merkezi veya kuantum bilgisayar satın alabilirsin");
 }
 ```
-Bu koşullu ifadenin dört dalı vardır: liras < 10_000, liras < 20_000, liras < 1_000_000 ve liras >= 1_000_000. 
+Bu koşullu ifadenin dört dalı vardır: lira < 10_000, lira < 20_000, lira < 1_000_000 ve lira >= 1_000_000. 
 
 Birden çok koşulu olan bir koşullu ifade, düğümleri boolean ifadelerinden oluşan ve her koşul doğru veya yanlış ile işaretlenen bir karar ağacı oluşturur. 
 
