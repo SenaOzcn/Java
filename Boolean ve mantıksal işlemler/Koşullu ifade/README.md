@@ -84,7 +84,7 @@ if (liras < 10_000) {
     System.out.println("Laptop satın alabilirsin.");
 } else if (liras < 20_000) {
     System.out.println("Masaüstü bilgisayar alabilirsin.");
-} else if (dollars < 1_000_000) {
+} else if (liras < 1_000_000) {
     System.out.println("Sunucu alabilirsin");
 } else {
     System.out.println("Bir veri merkezi veya kuantum bilgisayar satın alabilirsin");
