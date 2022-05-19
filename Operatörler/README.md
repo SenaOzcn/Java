@@ -2,12 +2,12 @@
 
 Java, sayıları karşılaştırmak için altı ilişkisel operatör sağlar:
 
-1. ==(eşittir)
-2. !=(eşit değil)
-3. >(büyüktür)
-4. >=(büyük veya eşit)
-5. <(küçüktür)
-6. <=(küçük veya eşit)
+1. ```==``` (eşittir)
+2. ```!=``` (eşit değil)
+3. ```>``` (büyüktür)
+4. ```>=``` (büyük veya eşit)
+5. ```<``` (küçüktür)
+6. ```<=``` (küçük veya eşit)
 
 İşlenenlere ilişkisel bir işleç uygulamanın sonucu, işlenen türlerinden bağımsız olarak boolean(true veya false) olacaktır.
 
