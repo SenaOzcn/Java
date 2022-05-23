@@ -84,8 +84,8 @@ Bu döngü üç bölümden oluşur:
 3. while(ifade)
 ```
 do {
-    // body: do something
-} while (condition);
+    // gövde
+} while (koşul);
 ```
 Bunu kullanmanın iyi bir örneği, bir kullanıcı belirli bir sayı veya dize girene kadar standart girdiden veri okuyan bir programdır. 
 Aşağıdaki program standart girdiden tamsayı sayıları okur ve görüntüler. 
