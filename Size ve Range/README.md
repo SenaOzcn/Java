@@ -25,6 +25,13 @@ Aralık, üst sınırdan 1'in çıkarılmasının nedeni olan 0'ı içerir.
 - int: boyut 32 bit (4 bayt), −(2 <sup>31</sup> ) ile (2 <sup>31</sup> )−1 aralığında
 - long: boyut 64 bit (8 bayt), −(2 <sup>63</sup> ) ile (2 <sup>63</sup> )−1 aralığında
 
+| İlkel Veri Tipi | Uzunluk | Max Değer |
+|--- | --- | --- |
+| byte | 8-bit | +127 |
+| short | 16-bit | +215-1 (32.767) |
+| int | 32-bit | +231-1 (2.147.483.647) |
+| long | 64-bit | +263-1 (9.223.372.036.854.775.807) |
+
 Türlerin boyutları her zaman aynıdır. İşletim sistemine veya donanıma bağlı değildirler ve değiştirilemezler.
 
 En sık kullanılan tamsayı türleri intve long'dur.
