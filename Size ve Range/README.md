@@ -25,6 +25,8 @@ Aralık, üst sınırdan 1'in çıkarılmasının nedeni olan 0'ı içerir.
 - int: boyut 32 bit (4 bayt), −(2<sup>31</sup> ) ile (2<sup>31</sup> )−1 aralığında
 - long: boyut 64 bit (8 bayt), −(2<sup>63</sup> ) ile (2<sup>63</sup> )−1 aralığında
 
+Aşağıdaki tablo ilkel veri tiplerini ve onların gömüldüğü sınıfları göstermektedir:
+
 | İlkel Veri Tipi | Uzunluk | Min Değer | Max Değer | Gömüldüğü Sınıf |
 |--- | --- | --- | --- | --- |
 | void | - | - | - | Void |
