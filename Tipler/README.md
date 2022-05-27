@@ -54,8 +54,8 @@ sembolleri bulabilirsiniz.
 char character = 'a';
 char upperCase = 'A';
 
-int ascii1 = character; // this is 97
-int ascii2 = upperCase; // this is 65
+int ascii1 = character; // 97
+int ascii2 = upperCase; // 65
 ```
 Kesin konuşmak gerekirse Java, ASCII'nin bir üst kümesi olan ve çok daha büyük bir sembol kümesi içeren Unicode Karakter Gösterimlerini (UTF-16) kullanır. 
 Ancak, 0-127 arasındaki sayılar ASCII ve Unicode'da aynı değerlere sahiptir.
