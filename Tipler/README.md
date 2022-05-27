@@ -103,4 +103,6 @@ long bigNum = (long) num;
 Ancak bu gereksizdir ve kodunuzda gereksiz yapılardan kaçınmak için kullanılmamalıdır.
 
 - Daha dar bir türü daha geniş bir türe dönüştürmek istiyorsanız, herhangi bir şey yazmanıza gerek yoktur.
-- Java derleyicisi bunu sizin için otomatik olarak yapacaktır. Ancak bunun tersini istiyorsanız, atama operatörünün ardından gerekli türü parantez içinde belirtin. 
+- Java derleyicisi bunu sizin için otomatik olarak yapacaktır. Ancak bunun tersini istiyorsanız, atama operatörünün ardından gerekli türü parantez içinde belirtin.
+
+![gorsel](https://i.stack.imgur.com/ocP9t.png)
