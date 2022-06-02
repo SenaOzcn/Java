@@ -234,4 +234,4 @@ Tekrar özetleyelim:
 - indeksleme 0 ile başlar;
 - çok boyutlu bir dizinin bir öğesini bulmak için dizi boyutuna eşit sayıda indekse ihtiyacınız vardır;
 - çok boyutlu bir dizide farklı boyutlarda dizileri bir araya getirebiliriz.
-- 
+
