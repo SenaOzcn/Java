@@ -1,4 +1,4 @@
-# çok boyutlu dizi
+# Çok boyutlu dizi
 
 Dizi aynı türdeki öğeleri saklamamıza izin verir. 
 
