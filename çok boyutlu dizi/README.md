@@ -166,7 +166,7 @@ Sonunda daha karmaşık kavramlarla uğraşmaya hazırız. İkiden fazla boyutu 
 Her şeyden önce, üç boyutlu bir dizi bir küp veya bir kutu olarak temsil edilebilir: tam olarak üç boyutu vardır - uzunluk, genişlik ve yükseklik. 
 24 elemanlı üç boyutlu bir diziye bir göz atın:
 
-![gorsel](https://ucarecdn.com/831f0c5e-ef6c-4311-9c49-94b841b7fec7/))
+![gorsel](https://ucarecdn.com/831f0c5e-ef6c-4311-9c49-94b841b7fec7/)
 
 Aşağıdaki pratik durum da üç boyutlu dizileri anlamanıza yardımcı olabilir: çok katlı bir park yerinde arabanın nerede olduğunu bulmanız gerektiğini hayal edin. 
 Ardından, üç sayı veya üç koordinat belirlemeniz gerekir: zemin, sıra ve sıradaki yer.
